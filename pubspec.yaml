@@ -1,0 +1,74 @@
+name: cyber_sense_plus
+description: "A new Flutter project."
+
+# Prevent accidental publishing
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  go_router: ^17.0.1
+  fl_chart: ^1.1.1
+  local_auth: ^3.0.0
+  encrypt: ^5.0.3
+  connectivity_plus: ^6.0.4
+  network_info_plus: ^7.0.0
+  firebase_auth: ^6.1.3
+  cloud_firestore: ^6.1.1
+  firebase_core: ^4.3.0
+  google_fonts: ^6.3.3
+  lottie: ^3.3.2
+  uuid: ^4.5.2
+  provider: ^6.1.5+1
+  url_launcher: ^6.3.2
+  qr_code_scanner: ^1.0.1
+  flutter_password_strength: ^0.1.6
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+  flutter_secure_storage: ^10.0.0
+  wifi_iot: ^0.3.19+2
+  ping_discover_network_plus: ^0.0.5
+  percent_indicator: ^4.2.5
+  flutter_animate: ^4.5.2
+  flutter_speedtest: ^0.0.3+3
+  flutter_speed_test_plus: ^1.0.10
+  image_picker: ^1.2.1
+  path_provider: ^2.1.5
+  pin_code_fields: ^8.0.1
+  http: ^1.6.0
+  google_sign_in: ^5.4.0
+  flutter_launcher_icons: ^0.14.4
+  wifi_info_plugin_plus: ^2.0.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# 🔥 APP ICON CONFIGURATION
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+dependency_overrides:
+  qr_code_scanner:
+    git:
+      url: https://github.com/juliuscanute/qr_code_scanner.git
+      ref: master
