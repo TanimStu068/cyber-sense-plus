@@ -120,6 +120,29 @@ Custom splash & intro screens explaining the app vision:
   "Threat Detection & Cyber Hygiene": "Scan URLs, QR codes, monitor breaches & improve habits."
 }
 
+## Screenshots
+
+### 🔐 Password Vault & Secure Notes
+![iamge1](assets/images/cyber_sense_image4.png)
+Secure storage with AES-256 encryption and PIN protection.
+
+### 📊 Digital Risk Dashboard
+![Dashboard](assets/images/dashboard.png)
+Shows security score, password strength, breach exposure, and trends.
+
+### 🕵️ Threat Detection
+![Threat Detection](assets/images/threat_detection.png)
+Scan URLs & QR codes, get instant risk results.
+
+### 📡 Network Safety
+![Wi-Fi Scanner](assets/images/network_scan.png)
+Analyze connected Wi-Fi networks, speed tests, and risks.
+
+### 🎨 UI / UX
+![Dark Theme](assets/images/dark_theme.png)
+Premium dark theme, modern Material-inspired UI, smooth onboarding.
+
+
 🏗️ Project Architecture
 
 The app follows a feature-based clean architecture:
@@ -196,19 +219,3 @@ Make sure Firebase is configured before running.
 
 Tanim Mahmud
 Flutter Developer | Cybersecurity-focused App Builder
-
-📜 License
-
-This project is proprietary and not licensed for redistribution without permission.
-
-If you want, I can next:
-
-✨ Optimize this README for public showcase
-
-🧪 Add screenshots & architecture diagrams
-
-🔐 Write a formal Privacy Policy
-
-🚀 Prepare Play Store–ready app description
-
-Just tell me — this app deserves it 👏
