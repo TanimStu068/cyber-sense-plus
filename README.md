@@ -122,24 +122,22 @@ Custom splash & intro screens explaining the app vision:
 
 ## Screenshots
 
-### 🔐 Password Vault & Secure Notes
-![iamge1](assets/images/cyber_sense_image4.png)
-Secure storage with AES-256 encryption and PIN protection.
+![iamge1](assets/images/cyber_sense_image1.png)
 
-### 📊 Digital Risk Dashboard
-![Dashboard](assets/images/dashboard.png)
-Shows security score, password strength, breach exposure, and trends.
+![image2](assets/images/cyber_sense_image2.png)
 
-### 🕵️ Threat Detection
-![Threat Detection](assets/images/threat_detection.png)
-Scan URLs & QR codes, get instant risk results.
+![image3](assets/images/cyber_sense_image3.png)
 
-### 📡 Network Safety
-![Wi-Fi Scanner](assets/images/network_scan.png)
-Analyze connected Wi-Fi networks, speed tests, and risks.
+![image4](assets/images/cyber_sense_image4.png)
 
-### 🎨 UI / UX
-![Dark Theme](assets/images/dark_theme.png)
+![image5](assets/images/cyber_sense_image5.png)
+
+![image6](assets/images/cyber_sense_image6.png)
+
+![image7](assets/images/cyber_sense_image7.png)
+
+
+
 Premium dark theme, modern Material-inspired UI, smooth onboarding.
 
 
