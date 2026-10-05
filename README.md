@@ -217,3 +217,11 @@ Make sure Firebase is configured before running.
 
 Tanim Mahmud
 Flutter Developer | Cybersecurity-focused App Builder
+
+## License
+
+This project is currently not licensed for reuse, modification,
+or redistribution. All rights reserved by the project author.
+
+Please do not copy, modify, distribute, or use this project
+without permission.
